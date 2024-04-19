@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:us-east-1:344788951450:stack/amplify-amplifybeacf24bb1c94-staging-79953/bde2aa60-fe88-11ee-9195-0e045ff21c71",
       "AmplifyAppId": "d8ccp2huvcejn"
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bpangularjest-dev-ccdb1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::344788951450:role/amplify-bpangularjest-dev-ccdb1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::344788951450:role/amplify-bpangularjest-dev-ccdb1-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bpangularjest-dev-ccdb1-deployment",
+      "UnauthRoleName": "amplify-bpangularjest-dev-ccdb1-unauthRole",
+      "StackName": "amplify-bpangularjest-dev-ccdb1",
+      "StackId": "arn:aws:cloudformation:us-east-1:344788951450:stack/amplify-bpangularjest-dev-ccdb1/ab7c90f0-fe8f-11ee-b4d0-0e04a25f0fdf",
+      "AmplifyAppId": "d8ccp2huvcejn"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
   }
 }
